@@ -1,0 +1,17 @@
+{
+  "root": "tests/non-functional",
+  "category": "api",
+  "testcases": [
+    {
+      "Summary": "TC-0005: Addition of 508 and -791",
+      "Name": "Addition: 508 + -791",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,non-functional,api,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 508\n2. Press +\n3. Enter -791\n4. Press =",
+      "Expected Result": "Display shows -283",
+      "Body": "..."
+    }
+  ]
+}
