@@ -1,0 +1,17 @@
+{
+  "root": "tests/functional",
+  "category": "sanity",
+  "testcases": [
+    {
+      "Summary": "TC-0003: Addition of -437 and -499",
+      "Name": "Addition: -437 + -499",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,sanity,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter -437\n2. Press +\n3. Enter -499\n4. Press =",
+      "Expected Result": "Display shows -936",
+      "Body": "..."
+    }
+  ]
+}
