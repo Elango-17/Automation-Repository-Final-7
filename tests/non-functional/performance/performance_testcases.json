@@ -1,0 +1,28 @@
+{
+  "root": "tests/non-functional",
+  "category": "performance",
+  "testcases": [
+    {
+      "Summary": "TC-0007: Addition of 827 and 116",
+      "Name": "Addition: 827 + 116",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,non-functional,performance,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 827\n2. Press +\n3. Enter 116\n4. Press =",
+      "Expected Result": "Display shows 943",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0008: Addition of -822 and 209",
+      "Name": "Addition: -822 + 209",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,non-functional,performance,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter -822\n2. Press +\n3. Enter 209\n4. Press =",
+      "Expected Result": "Display shows -613",
+      "Body": "..."
+    }
+  ]
+}
