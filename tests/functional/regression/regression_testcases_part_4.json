@@ -1,0 +1,75 @@
+{
+  "root": "tests/functional",
+  "category": "regression",
+  "part": 4,
+  "total_parts": 4,
+  "count": 6,
+  "testcases": [
+    {
+      "Summary": "TC-0038: Addition of 266 and 813",
+      "Name": "Addition: 266 + 813",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 266\n2. Press +\n3. Enter 813\n4. Press =",
+      "Expected Result": "Display shows 1079",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0039: Addition of 764 and -260",
+      "Name": "Addition: 764 + -260",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 764\n2. Press +\n3. Enter -260\n4. Press =",
+      "Expected Result": "Display shows 504",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0040: Addition of 182 and -607",
+      "Name": "Addition: 182 + -607",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 182\n2. Press +\n3. Enter -607\n4. Press =",
+      "Expected Result": "Display shows -425",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0041: Addition of 442 and -858",
+      "Name": "Addition: 442 + -858",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter 442\n2. Press +\n3. Enter -858\n4. Press =",
+      "Expected Result": "Display shows -416",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0042: Addition of -907 and 354",
+      "Name": "Addition: -907 + 354",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter -907\n2. Press +\n3. Enter 354\n4. Press =",
+      "Expected Result": "Display shows -553",
+      "Body": "..."
+    },
+    {
+      "Summary": "TC-0043: Addition of -534 and 583",
+      "Name": "Addition: -534 + 583",
+      "Issue Type": "Test",
+      "Priority": "High",
+      "Labels": "calculator,functional,regression,automation-candidate",
+      "Components": "CalculatorApp",
+      "Test Steps": "1. Enter -534\n2. Press +\n3. Enter 583\n4. Press =",
+      "Expected Result": "Display shows 49",
+      "Body": "..."
+    }
+  ]
+}
